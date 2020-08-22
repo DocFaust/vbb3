@@ -1,0 +1,19 @@
+{
+  "name": "vbb3",
+  "version": "3.0.0",
+  "description": "Volleyballbuchung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocFaust/vbb3.git"
+  },
+  "author": "Werner Faust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DocFaust/vbb3/issues"
+  },
+  "homepage": "https://github.com/DocFaust/vbb3#readme"
+}
